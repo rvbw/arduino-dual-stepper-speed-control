@@ -5,6 +5,8 @@ This project demonstrates controlling **two stepper motors** using an **Arduino 
 
 Each motor rotates at a **different speed**, allowing comparison between slow and fast motion.
 
+![ghg](image.jpeg)
+
 ---
 
 ## Components
